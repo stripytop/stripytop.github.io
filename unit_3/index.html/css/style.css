@@ -1,0 +1,47 @@
+body {
+	background-color: #d3d3d3;
+}
+
+
+h1 {
+	color: #800000;
+	font-family: Helvetica, sans-serif;
+	font-weight: 600;
+
+}
+nav {
+	color: #add8e6;
+	font-family: Verdana, sans-serif
+
+}
+
+h2 {
+	color: #800000;
+	font-family: Helvetica, sans-serif;
+	font-style: italic;
+}
+
+h3 {
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+}
+
+ul {
+	font-family: Helvetica, sans-serif:
+    text-align: right;
+	list-style-type: none;
+	background-color: #cdc5bf;
+}
+
+h4 {
+	font-family: Helvetica, sans-serif;
+	font-weight: 600;
+	background-color: #cdc5bf;
+	color: #800000;
+}
+
+p {
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+}
+
