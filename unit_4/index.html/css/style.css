@@ -1,0 +1,80 @@
+
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif|Roboto');
+
+
+body {
+	background-color: #d3d3d3;
+}
+
+img {
+
+}
+
+h1 {
+	color: #800000;
+	font-family: 'Roboto', bold, sans-serif;
+	font-size:30px;
+	font-weight: 700;
+	border-style: double;
+	}
+	
+nav {
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+	color: #add8e6;
+	text-transform: uppercase;
+	margin: 2em;
+	word-spacing: 10px;
+}
+
+h2 {
+	color: #800000;
+	font-family: 'Roboto', sans-serif;
+	font-style: italic;
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	color: #2F4F4F;
+}
+
+ul {
+	font-family: 'Roboto', sans-serif;
+    text-align: center;
+	list-style-type: none;
+	background-color: #cdc5bf;
+	font-weight: 600;
+	margin: 2em;
+	line-height: 2em;
+}
+
+h4 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 600;
+	background-color: #cdc5bf;
+	color: #800000;
+	margin: 2em;
+}
+
+.divisions {
+	font-family: 'Droid Serif', serif;
+	text-align: left;
+	margin:2em;
+}
+
+
+a {
+	text-decoration: none;
+	text-align: center;
+}
+#disclaimer {
+	text-align: center;
+	font-family: 'Droid Serif', serif;
+	text-transform: uppercase;
+	}
+
+#copyright {
+	text-align: center;
+	font-weight: bold;
+}
