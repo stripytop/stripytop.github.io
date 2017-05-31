@@ -16,7 +16,7 @@ h1 {
 	font-size:30px;
 	font-weight: 700;
 	border-style: double;
-	}
+}
 	
 nav {
 	text-decoration: none;
@@ -49,6 +49,7 @@ ul {
 	line-height: 2em;
 }
 
+
 h4 {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 600;
@@ -76,5 +77,9 @@ a {
 
 #copyright {
 	text-align: center;
-	font-weight: bold;
+	font-weight: bold
+}
+
+footer {
+	text-align: center;
 }
