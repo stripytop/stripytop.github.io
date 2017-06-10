@@ -1,0 +1,97 @@
+
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif|Roboto');
+
+
+body {
+	background-color: #FFE2B8;
+}
+
+img {
+
+}
+
+h1 {
+	color: #800000;
+	font-family: 'Roboto', bold, sans-serif;
+	font-size:30px;
+	font-weight: 700;
+	border-style: double;
+}
+	
+nav {
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px
+	color: #add8e6;
+	text-transform: uppercase;
+	margin: 2em;
+	word-spacing: 10px;
+}
+
+h2 {
+	color: #800000;
+	font-family: 'Roboto', sans-serif;
+	font-style: italic;
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	color: #2F4F4F;
+}
+
+ul {
+	font-family: 'Roboto', sans-serif;
+    text-align: center;
+	list-style-type: none;
+	background-color: #cdc5bf;
+	font-weight: 600;
+	margin: 2em;
+	line-height: 2em;
+}
+
+
+h4 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 600;
+	background-color: #cdc5bf;
+	color: #800000;
+	margin: 2em;
+}
+
+.divisions {
+	font-family: 'Droid Serif', serif;
+	text-align: left;
+	margin:2em;
+	 background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+a {
+	text-decoration: none;
+	text-align: center;
+}
+#disclaimer {
+	text-align: center;
+	font-family: 'Droid Serif', serif;
+	text-transform: uppercase;
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+	}
+
+#copyright {
+	text-align: center;
+	font-weight: bold
+}
+
+footer {
+	text-align: center;
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
