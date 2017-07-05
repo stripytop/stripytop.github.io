@@ -1,0 +1,183 @@
+
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed|Roboto')
+
+
+body{
+	color: blue;
+	font-size:30px
+}
+
+#croydon {
+	width:100%;
+}
+
+#swiss{
+	width:60%;
+}
+
+
+h1 {
+	color: #800000;
+	font-family: 'Roboto', bold, sans-serif;
+	font-size:30px;
+	font-weight: 700;
+	border-style: double;
+}
+
+h2{
+	color: #800000;
+	font-family: 'Roboto', bold, sans-serif;
+	text-align: right;
+	font-size: 0.8em;
+}
+nav {
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+    border: 1px ##617b9b;
+    padding: 1px
+	color: #add8e6;
+	text-transform: uppercase;
+	margin: 1em;
+	word-spacing: 10px;
+	text-align: right;
+}
+
+
+hr{
+	width:50%;
+	display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    color: #800000;
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	color: #2F4F4F;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+ul {
+	font-family: 'Roboto', sans-serif;
+    text-align: justify;
+	list-style-type: none;
+	background-color:#f2f2f2; 
+	font-weight: 600;
+    line-height: 4em;
+    float:left;
+}
+
+
+h4 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 600;
+	background-color: #cdc5bf;
+	color: #800000;
+	margin: 2em;
+}
+
+.divisions {
+	font-family: 'Fira Sans Extra Condensed', sans-serif;
+	text-align: left;
+	margin:2em;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+
+a {
+	text-decoration: none;
+	text-align: center;
+}
+
+
+
+#disclaimer {
+	text-align: center;
+	font-family: 'Fira Sans Extra Condensed', sans-serif;
+	text-transform: uppercase;
+	background-color: #f2f2f2;
+	float:left;
+	color: #13424F;
+ }
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.clearfix2:after {
+    visibility: hidden;
+    display: block;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#cheese{
+	background-color: #f2f2f2;
+}
+#two_column {
+    background-color: white;
+    border: 1px #800000 solid;
+    padding: 20px;
+}
+
+#left {
+	font-family: 'Fira Sans Extra Condensed', sans-serif;
+    background-color:white; 
+    loat: left;
+    width: 30%;
+    color:#2F4F4F;
+}
+
+#right {
+	font-family: 'Fira Sans Extra Condensed', sans-serif;
+    background-color: #f2f2f2;
+  
+    float: right;   
+    width: 62%;
+ }
+
+#five{
+	font-family: 'Roboto', bold, sans-serif;
+ }
+
+
+
+.floating-box {
+    float: left;
+   border: 3px solid #800000;
+    width: 350px;
+    height: 150px;
+    margin: 10px;  
+}
+
+.floating-box:hover {
+	background-color:#b5860e;
+}
+
+#copyright {
+	text-align: center;
+	font-weight: bold
+}
+
+footer {
+	font-family: 'Roboto', bold, sans-serif;
+	text-align: center;
+	color: 800000;
+    border: 1px black solid;
+    padding: 20px;
+    background-color: #f2f2f2;
+    word-spacing: 3px;
+}
